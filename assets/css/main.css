@@ -3801,3 +3801,14 @@ input, select, textarea {
 	box-shadow: 2px 2px 3px -1px #999;
 	z-index: 100;
 }
+
+.d-flex{
+	display: flex;
+}
+
+.statistics-card{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: start;
+}
